@@ -1,0 +1,31 @@
+2020-11-28 13:31:45,899 - INFO    - MainThread - testcase HS2 executed
+2020-11-28 13:31:45,899 - INFO    - MainThread - testcase HS4 executed
+2020-11-28 13:32:24,453 - INFO    - MainThread - testcase HS2 executed
+2020-11-28 13:32:24,453 - INFO    - MainThread - testcase HS4 executed
+2020-11-28 13:33:18,680 - INFO    - MainThread - testcase HS2 executed
+2020-11-28 13:33:18,680 - INFO    - MainThread - testcase HS4 executed
+2020-11-28 13:33:38,087 - INFO    - MainThread - Excel read begin
+2020-11-28 13:33:38,103 - INFO    - MainThread - ['HS2', 'HS4']
+2020-11-28 13:33:38,103 - INFO    - MainThread - testcase HS2 executed
+2020-11-28 13:33:38,103 - INFO    - MainThread - testcase HS4 executed
+2020-11-28 13:34:25,144 - INFO    - MainThread - testcase HS2 executed
+2020-11-28 13:34:25,144 - INFO    - MainThread - testcase HS4 executed
+2020-11-28 13:35:38,297 - INFO    - MainThread - Excel read begin
+2020-11-28 13:35:38,305 - INFO    - MainThread - ['HS2', 'HS4']
+2020-11-28 13:35:38,305 - INFO    - MainThread - testcase HS2 executed
+2020-11-28 13:35:38,305 - INFO    - MainThread - testcase HS4 executed
+2020-11-28 13:36:20,165 - INFO    - MainThread - Excel read begin
+2020-11-28 13:36:20,181 - INFO    - MainThread - ['HS2', 'HS4']
+2020-11-28 13:37:16,075 - INFO    - MainThread - Excel read begin
+2020-11-28 13:40:51,343 - INFO    - MainThread - testcase HS2 executed
+2020-11-28 13:40:51,343 - INFO    - MainThread - testcase HS4 executed
+2020-11-28 13:41:20,400 - INFO    - MainThread - Excel read begin
+2020-11-28 13:41:20,424 - INFO    - MainThread - ['HS2', 'HS4']
+2020-11-28 13:41:20,424 - INFO    - MainThread - testcase HS2 executed
+2020-11-28 13:41:20,424 - INFO    - MainThread - testcase HS4 executed
+2020-11-28 13:42:11,459 - INFO    - MainThread - Excel read begin
+2020-11-28 13:42:11,507 - INFO    - MainThread - 6
+2020-11-28 13:42:11,507 - INFO    - MainThread - 2
+2020-11-28 13:42:11,507 - INFO    - MainThread - ['HS2', 'HS4']
+2020-11-28 13:42:11,507 - INFO    - MainThread - testcase HS2 executed
+2020-11-28 13:42:11,507 - INFO    - MainThread - testcase HS4 executed
